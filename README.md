@@ -1,2 +1,3 @@
 # Analysis-of-the-current-instability-landscape-in-Pakistan
-Data represents the views of over 145,000 respondents from diverse regions and backgrounds.
+A dataset has been compiled containing survey results related to political and social instability in Pakistan.  Collected via Google Forms, it represents the views of over 145,000 respondents from diverse regions and backgrounds.
+The survey explored public opinion regarding the performance and popularity of Pakistan's three major political parties: PML-N, PTI, and PPP.  It also investigated perceptions of the army's role and influence.  The dataset is intended to offer insights into public sentiment towards current and previous governments, along with the challenges and opportunities facing Pakistan's future.  Potential uses for the dataset include data analysis, visualization, and the identification of significant patterns and trends.
